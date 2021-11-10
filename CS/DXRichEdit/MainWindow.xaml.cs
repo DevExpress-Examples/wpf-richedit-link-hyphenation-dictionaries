@@ -12,7 +12,7 @@ namespace DXRichEdit
             InitializeComponent();
 
             richEditControl1.LoadDocument("Multimodal.docx");
-            var openOfficePatternStream = Assembly.GetExecutingAssembly().GetManifestResourceStream("DXRichEdit.hyphen.dic");
+            var openOfficePatternStream = Assembly.GetExecutingAssembly().GetManifestResourceStream("DXRichEdit.hyph_en_US.dic");
             var customDictionaryStream = Assembly.GetExecutingAssembly().GetManifestResourceStream("DXRichEdit.hyphen_exc.dic");
 
             //Create dictionary objects
