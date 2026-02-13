@@ -26,7 +26,7 @@ Once you link hyphenation dictionaries, you can enable or suppress automatic hyp
 [1]: https://extensions.libreoffice.org/en/extensions/show/english-dictionaries
 [2]: https://extensions.libreoffice.org/assets/downloads/41/dict-en-20210101.oxt
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-richedit-link-hyphenation-dictionaries&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-richedit-link-hyphenation-dictionaries&~~~was_helpful=no)
 
